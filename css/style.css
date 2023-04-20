@@ -291,7 +291,7 @@ main {
 }
 
 .banner_main {
-    background: url(../images/background_web.png);
+    background: url(../images/background_web.gif);
     display: flex;
     align-content: center;
     align-items: center;
@@ -612,3 +612,20 @@ main {
 
 
 /** end footer **/
+
+/** impressum **/
+
+
+#header_impressum {
+    width: 90%;
+}
+
+#body_impressum {
+    background: #8F9EEC;
+}
+
+#text_impressum {
+    display: block;
+    text-align: center;
+    padding: 10vh 0vw 0vh 0vw;
+}
